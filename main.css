@@ -42,3 +42,12 @@ box-shadow:0 0 10px aqua  ;
    height: 244px;
    width: 124px;
 }
+@media only screen and (max-width: 720px) {
+    .iframe{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: center;
+        background:rgb(32, 28, 28);
+        }
+}
