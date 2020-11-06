@@ -17,16 +17,13 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    min-height: 100vh;
     background:rgb(32, 28, 28);
 }
 .iframe{
     display: flex;
-    margin: 5px;
     justify-content: center;
-    align-items: stretch;
+    align-items: center;
     flex-direction: row;
-    min-height: 100vh;
     background:rgb(32, 28, 28);
     }
 .led1{
